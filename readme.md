@@ -15,10 +15,15 @@ CongiCorp Solutions. Tech & Business. Consultora de analítica de negocios y apl
 #### INTEGRANTES Y ROLES
 
 Franco D’Auro: Data analyst. Diseño de marca.
+
 Juan Carlos Brunello: Data engineer. Machine learning operations
+
 Lucas Ariel Leguizamón Alegre: Data scientist.
+
 Luis Alberto Cerelli: Data engineer.
+
 Moisés Elías Gómez Montoya: Data scientist.
+
 Nathaly Castro Gómez: Data analyst
 
 #### MISIÓN
@@ -90,3 +95,5 @@ El alcance de este proyecto queda restringido a los restaurantes  de California,
 * Streamlit
 * Scikitlearn
 * Plataforma online Jira
+
+
