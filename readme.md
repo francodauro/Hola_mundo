@@ -1,5 +1,3 @@
-
-
 ![Banner](https://drive.google.com/uc?export=view&id=1efybPB8F27HoFxZebRnLEg19xi_iu4fJ)
 
 ### PROYECTO FINAL - GOOGLE MAPS- YELP
@@ -43,7 +41,7 @@ Colaboración: Trabajamos en equipo con nuestros clientes y socios para alcanzar
 
 #### CONTEXTO
 
-Un importante inversor del sector de restaurantes y el ocio de los  Estados Unidos, nos ha contratado para realizar un análisis detallado de la información de los usuarios de las plataformas Yelp y Google Maps sobre restaurantes. Debemos utilizar análisis de sentimientos sobre las reseñas de estas plataformas para predecir cuáles serán los restaurantes que crecerán o decaerán. Además, determinaremos la ubicación para emplazar nuevos locales y desarrollaremos un sistema de recomendación de restaurantes para los usuarios basado en sus experiencias previas.
+Un importante inversor del sector de restaurantes y el ocio de los  Estados Unidos, nos ha contratado para realizar un análisis detallado de la información de los usuarios de las plataformas Yelp y Google Maps sobre restaurantes. Debemos utilizar análisis de sentimientos sobre las reseñas de estas plataformas para predecir cuáles serán los restaurantes que crecerán o decaerán. Además, determinaremos la ubicación para emplazar nuevos locales.
 
 #### ALCANCE
 
@@ -95,5 +93,4 @@ El alcance de este proyecto queda restringido a los restaurantes  de California,
 * Streamlit
 * Scikitlearn
 * Plataforma online Jira
-
 
