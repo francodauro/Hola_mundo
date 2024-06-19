@@ -8,7 +8,7 @@
 
 CongiCorp Solutions. Tech & Business. Consultora de analítica de negocios y aplicación de algoritmos de Machine Learning para empresas e inversionistas.
 
-<imgsrc="https://drive.google.com/uc?export=view&id=1-rAsUtf5MgzwSnEC3Qy03erMO9IbSrq2" alt="Logo" width="200"/>
+imgsrc="https://drive.google.com/uc?export=view&id=1-rAsUtf5MgzwSnEC3Qy03erMO9IbSrq2" alt="Logo" width="200"/
 
 #### INTEGRANTES Y ROLES
 
