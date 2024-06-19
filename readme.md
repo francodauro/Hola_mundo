@@ -58,6 +58,7 @@ El alcance de este proyecto queda restringido a los restaurantes  de California,
 
 #### INDICADORES CLAVES DE RENDIMIENTO (KPI's)
 
+1. KPi’s asociados a locales
 * Aumento de la cantidad de reviews totales en un 5% con respecto al semestre anterior por local.
 * Disminución anual en la proporción de las reviews negativas en un 5% por local.
 * Aumento anual en la proporción de las reviews positivas en un 5% por local.
@@ -65,6 +66,7 @@ El alcance de este proyecto queda restringido a los restaurantes  de California,
 * Aumento anual en la proporción de las reviews positivas en temporada alta (Junio, Julio y Agosto) en un 5% por local.
 * Disminución de la cantidad total de reviews del resto de locales competencia en la misma ciudad en un 5%.
 
+2. KPi’s asociados a ciudades
 * Aumento de la cantidad de reviews totales en un 5% con respecto al semestre anterior por ciudad.
 * Disminución anual en la proporción de las reviews negativas en un 5% por ciudad.
 * Aumento anual en la proporción de las reviews positivas en un 5% por ciudad.
@@ -88,4 +90,3 @@ El alcance de este proyecto queda restringido a los restaurantes  de California,
 * Streamlit
 * Scikitlearn
 * Plataforma online Jira
-
