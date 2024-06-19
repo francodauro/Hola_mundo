@@ -11,6 +11,7 @@ CongiCorp Solutions. Tech & Business. Consultora de analítica de negocios y apl
 <img src="https://drive.google.com/uc?export=view&id=1-rAsUtf5MgzwSnEC3Qy03erMO9IbSrq2" alt="Logo" width="200"/>
 
 
+
 #### INTEGRANTES Y ROLES
 
 Franco D’Auro: Data analyst. Diseño de marca.
@@ -87,3 +88,4 @@ El alcance de este proyecto queda restringido a los restaurantes  de California,
 * Streamlit
 * Scikitlearn
 * Plataforma online Jira
+
